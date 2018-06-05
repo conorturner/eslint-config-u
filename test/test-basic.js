@@ -8,7 +8,6 @@ describe("Basic", () => {
 
 		expect(config.extends).to.equal("eslint-config-synacor");
 		expect(config.rules).to.be.an("object");
-
 		expect(config).to.deep.equal(require("../.eslintrc"));
 
 		done();
