@@ -13,6 +13,6 @@
     "react/jsx-no-bind": "off",
     "react/jsx-closing-bracket-location": "off",
     "curly": ["error", "multi"],
-    "no-else-return": ["off"]
+    "no-else-return": 0
   }
 }
