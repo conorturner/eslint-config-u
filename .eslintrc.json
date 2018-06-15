@@ -12,6 +12,7 @@
     "react/jsx-tag-spacing": "off",
     "react/jsx-no-bind": "off",
     "react/jsx-closing-bracket-location": "off",
-    "curly": ["error", "multi"]
+    "curly": ["error", "multi"],
+    "no-else-return": ["off"]
   }
 }

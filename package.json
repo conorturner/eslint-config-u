@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-u",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "javascript lint config for es6",
   "main": "index.js",
   "scripts": {
